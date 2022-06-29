@@ -1,6 +1,12 @@
-### Hi there! I'm Klaudia 👋
+### Hi there! 👋
 
-🔭 I’m currently working on projects to my portfolio
+<h3 align = "center"> Welcome to my Github Profile 😃 </h3>
+
+Hi, I am Klaudia, a self-taught Front-End Web Developer. 
+
+- 🔭 I’m currently working on projects to my portfolio;
+- 📸 I'm also into car photography. You can check my portfolio here:  [xakvsha](https://www.instagram.com/xakvsha_/) 
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
