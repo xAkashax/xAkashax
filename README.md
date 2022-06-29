@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-<h3 align = "center"> Welcome to my Github Profile 😃 </h3>
-
 Hi, I am Klaudia, a self-taught Front-End Web Developer. 
 
 - 🔭 I’m currently working on projects to my portfolio;
