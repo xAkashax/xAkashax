@@ -3,7 +3,7 @@
 Hi, I am Klaudia, a self-taught Front-End Web Developer. 
 
 - 🔭 I’m currently working on projects to my portfolio;
-- 📸 I'm also into car photography. You can check my portfolio here:  [xakvsha](https://www.instagram.com/xakvsha_/) 
+- 📸 I'm also into car photography [xakvsha](https://www.instagram.com/xakvsha/);
 
 
 <p  align="center">
