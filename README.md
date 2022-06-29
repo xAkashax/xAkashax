@@ -15,7 +15,15 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 
+
 ![xakashax's GitHub stats](https://github-readme-stats.vercel.app/api?username=xakashax&show_icons=true&theme=radical)
+
+
+## 📫 Get in touch
+
+- My Frontendmentor.io profile: [xAkashax](https://www.frontendmentor.io/profile/xAkashax)
+- 
+- LinkedIn: [Klaudia](https://www.linkedin.com/in/klaudia-bi%C5%82an-8b5787151/)
 
 <!--
 **xAkashax/xAkashax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
