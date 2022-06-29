@@ -22,7 +22,6 @@
 ## 📫 Get in touch
 
 - My Frontendmentor.io profile: [xAkashax](https://www.frontendmentor.io/profile/xAkashax)
-- 
 - LinkedIn: [Klaudia](https://www.linkedin.com/in/klaudia-bi%C5%82an-8b5787151/)
 
 <!--
